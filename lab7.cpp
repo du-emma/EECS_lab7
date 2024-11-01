@@ -1,3 +1,10 @@
+/* Name: Emma Du
+KUIID: 3134852
+Lab Session: Friday at 1pm with Kevin
+Lab Assignment: 07
+Program Description: Program implements C++ to perform various operations on matrices, leveraging features such as classes and function overloading, and operator overloading
+*/
+
 #include <iostream>
 using namespace std;
 
